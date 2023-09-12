@@ -1,3 +1,3 @@
-# Networking-Server
+# Networking
 
-a simple C++ serever for a client-server application
+a simple C++ client/server Networking Application
